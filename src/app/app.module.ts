@@ -8,11 +8,11 @@ import { ViewNewsComponent } from './view-news/view-news.component';
 @NgModule({
   declarations: [
     AppComponent,
-    ViewNewsComponent
+    ViewNewsComponent,
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
